@@ -1,5 +1,7 @@
-LuaNode
+ESP32 BOARD I USE FOR PROGRAMMING （ESP32-DEVKIT-V1-DOIT）(ESP32-WROOM-32)
 ======================================
+
+（这个平台看起来学习挺快的）
 
 This project is an improved `Lua` SDK, based on ESP-IDF/ESP8266_RTOS_SDK, for Esp32 (compatible with Esp8266).
 
